@@ -1,0 +1,16 @@
+<resources>
+
+    <style name="Widget.Theme.OTPView.MyView" parent="">
+        <item name="android:background">@color/gray_400</item>
+    </style>
+
+    <style name="otp_editText_default_style" parent="@android:style/Widget.EditText">
+        <item name="android:background">@drawable/border_bg</item>
+        <item name="android:inputType">number</item>
+        <item name="android:textCursorDrawable">@null</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+</resources>

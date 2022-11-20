@@ -1,0 +1,8 @@
+<resources>
+    <declare-styleable name="OTPView">
+        <attr name="boxSpacing" format="integer" />
+        <attr name="boxCount" format="integer" />
+        <attr name="boxStyle" format="reference" />
+        <attr name="boxSize" format="integer" />
+    </declare-styleable>
+</resources>
